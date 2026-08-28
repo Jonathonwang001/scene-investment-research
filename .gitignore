@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Generated audit artifacts and local development records
+skill_package_audit.md
+audit_report.md
+.learnings/
+
+# Local editor and OS artifacts
+.DS_Store
+.vscode/
+.idea/
+*.swp
